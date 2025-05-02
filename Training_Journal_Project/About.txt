@@ -1,0 +1,6 @@
+Final : This will a Django based website with database.
+
+Current : Right now it will be a command based, app that will only run on my laptop.
+          It is good enough for now.
+
+          I Should start the GUI Designing now
